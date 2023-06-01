@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pangolin&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Pangolin&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Pangolin&display=swap');
 
 body{
     margin-top:0vh;
@@ -178,7 +178,7 @@ body{
     margin-top: 700px;
 }*/
 .content03{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Pacifico', cursive;
     font-size: 15px;
     border-radius: 50px;
     border: 2px solid black;
